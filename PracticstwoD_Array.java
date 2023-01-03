@@ -19,5 +19,7 @@ public class PracticstwoD_Array {
             }
         }
 
+        int x 
+
     }
 }
