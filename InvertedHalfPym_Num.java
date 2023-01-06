@@ -16,6 +16,18 @@ public class InvertedHalfPym_Num {
         
 
 
-    // Q no. 2 : Print the pa    
+    // Q no. 2 : Print the pattern - Half Pyramid with numbers.
+
+    System.out.println("Half Pyramid with numbers");
+    
+        for(int i =1; i <=n; i++){
+
+            //inner loop
+            for(int j=1; j<=i; j++){
+                System.out.print(j+" ");
+            }
+            System.out.println();
+        }
+
     }
 }
