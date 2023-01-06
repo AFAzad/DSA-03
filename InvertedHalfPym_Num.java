@@ -4,6 +4,10 @@ import java.util.*;
 public class InvertedHalfPym_Num {
     public static void main(String[] args){
         int n = 5;
+
+System.out.println("Half pyramid _Inverted number");
+System.out.println();
+
         for(int i = 1; i<= n; i++){
             
             // innerr Loop
@@ -17,7 +21,7 @@ public class InvertedHalfPym_Num {
 
 
     // Q no. 2 : Print the pattern - Half Pyramid with numbers.
-
+        System.out.println();
     System.out.println("Half Pyramid with numbers");
     
         for(int i =1; i <=n; i++){
