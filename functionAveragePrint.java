@@ -1,4 +1,5 @@
 import java.util.Scanner;
+/* Enter 3 number from the user & make a function to print their average */
 
 public class functionAveragePrint {
     public static void main(String args[]){

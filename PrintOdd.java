@@ -1,5 +1,7 @@
 import java.util.*;
+/*Write a function to print the sum of odd numbers from 1 to n */
 public class PrintOdd {
+
     public static void printOddNum(int n){
         int result = 0;
 
